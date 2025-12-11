@@ -38,7 +38,7 @@ sudo dnf install make
 First, check out the dotfiles repo in your $HOME directory using git:
 
 ```bash
-git clone git@github.com:rmonin/dotfles.git ~/.dotfiles 
+git clone git@github.com:101br03k/dotfiles.git ~/.dotfiles 
 cd dotfiles
 ```
 
