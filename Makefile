@@ -67,7 +67,7 @@ help:
 	@echo ""
 	@echo "\033[1mTARGETS\033[0m"
 	@echo ""
-	@echo "  stow    - Create symlinks for all packages (default)"
+	@echo "  stow    - Create symlinks for all packages (\033[32mdefault\033[0m)"
 	@echo "  restow  - Reapply symlinks for all packages"
 	@echo "  unstow  - Remove symlinks for all packages (\033[31mcaution\033[0m)"
 	@echo "  help    - Show this help message"
