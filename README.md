@@ -53,8 +53,6 @@ You can also watch the video from [Dreams of Autonomy](https://www.youtube.com/@
 
 ## Makefile usage
 
-## Usage
-
 The `make` command provides several targets for managing the dotfiles run `make help` to know usage:
 
 ```
